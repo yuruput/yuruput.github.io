@@ -20,6 +20,7 @@ const events = defineCollection({
   schema: z.object({
     id: z.number(),
     name: z.string(),
+    date: z.string(),
     url: z.string(),
     location: z.string(),
     locationUrl: z.string(),
