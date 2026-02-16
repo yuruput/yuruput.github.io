@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "id": 3,
+      "name": "ゆるプット.kioicho #3",
+      "url": "https://sencorp.connpass.com/event/380778/",
+      "location": "BEENOS株式会社",
+      "locationUrl": "https://beenos.com/"
+    },
+    {
       "id": 2,
       "name": "ゆるプット.kioicho #2",
       "url": "https://dip-dev.connpass.com/event/373470/",
